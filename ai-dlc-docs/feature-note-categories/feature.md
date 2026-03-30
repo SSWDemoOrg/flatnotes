@@ -3,13 +3,13 @@
 | Field | Value |
 |---|---|
 | **code** | `note-categories` |
-| **status** | `draft` |
+| **status** | `approved` |
 | **priority** | _awaiting confirmation_ |
 | **github_tracking** | — |
-| **prototype_status** | `in_review` |
+| **prototype_status** | `approved` |
 | **engineering_status** | `not_started` |
-| **engineering_owner** | — |
-| **engineering_started_at** | — |
+| **engineering_owner** | - |
+| **engineering_started_at** | - |
 
 ---
 
